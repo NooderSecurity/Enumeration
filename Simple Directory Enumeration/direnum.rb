@@ -16,3 +16,4 @@ end
 
 if (ARGV.length < 2 or ARGV.length > 2) then abort("Example: direnum.rb https://example.com/ dir-small.txt") end
 Enumerate(ARGV[0], ARGV[1])
+print ("Created By Mxmnt @ NooderSecurity")
