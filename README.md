@@ -1,2 +1,2 @@
 # Enumeration
-This repository is for enumeration tools/scrtips.
+This repository is for basic enumeration tools/scripts.
