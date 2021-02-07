@@ -18,7 +18,7 @@ On Error Resume Next
     End if
     Set http = Nothing
 Loop
-
+WScript.StdOut.WriteLine "Created By Mxmnt @ NooderSecurity"
 Set Arg = Nothing
 Set fso = Nothing
 Set f = Nothing
